@@ -8,7 +8,7 @@ void main()
 	printf("the chukka formation is like as follows\n");
 	for(i = 1;i <= k; i++)
 	{
-		for(j=1;j<=k;j++)
+		for(j = 1;j <= k; j++)
 		{
 			
 			printf(" %d  ",j);}
