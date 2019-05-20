@@ -6,7 +6,7 @@ void main()
 	printf("please enter a value : \n");
 	scanf("%d",&k);
 	printf("the chukka formation is like as follows\n");
-	for(i=1;i<=k;i++)
+	for(i = 1;i<=k;i++)
 	{
 		for(j=1;j<=k;j++)
 		{
