@@ -1,4 +1,5 @@
 marks=int(input("enter marks"))
+
 if marks==100 or marks>=99:
     print("your grade O")
 elif marks==90 or marks>=89:
